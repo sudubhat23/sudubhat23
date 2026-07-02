@@ -188,11 +188,11 @@ Passionate about building scalable backend systems, REST APIs, and modern full-s
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/sudarshan-bhat
+https://www.linkedin.com/in/sudarshan-bhat-9539a4295/
 
 🌐 **Portfolio**
 
-(Add Portfolio Link)
+https://my-portfolio-git-main-sudubhat.vercel.app/
 
 📂 **GitHub**
 
